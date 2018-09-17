@@ -1,0 +1,23 @@
+{
+  "name": "gillespie",
+  "version": "0.0.1",
+  "description": "Election results browser, named for Alfred Gillespie, one of the pioneers of mechanical vote counting",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lathropd/gillespie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lathropd/gillespie/issues"
+  },
+  "homepage": "https://github.com/lathropd/gillespie#readme",
+  "dependencies": {
+    "koa": "^2.5.3"
+  }
+}
