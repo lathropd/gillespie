@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/lathropd/gillespie#readme",
   "dependencies": {
-    "koa": "^2.5.3"
+    "koa": "^2.5.3",
+    "koa-router": "^7.4.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.3"
   }
 }
