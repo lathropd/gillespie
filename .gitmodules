@@ -1,0 +1,21 @@
+[submodule "openelections-data-nm"]
+	path = openelections-data-nm
+	url = https://github.com/openelections/openelections-data-nm.git
+[submodule "openelections-data-ia"]
+	path = openelections-data-ia
+	url = https://github.com/openelections/openelections-data-ia.git
+[submodule "openelections-data-mt"]
+	path = openelections-data-mt
+	url = https://github.com/openelections/openelections-data-mt.git
+[submodule "openelections-data-il"]
+	path = openelections-data-il
+	url = https://github.com/openelections/openelections-data-il.git
+[submodule "openelections-data-wa"]
+	path = openelections-data-wa
+	url = https://github.com/openelections/openelections-data-wa.git
+[submodule "openelections-data-or"]
+	path = openelections-data-or
+	url = https://github.com/openelections/openelections-data-or.git
+[submodule "openelections-data-tx"]
+	path = openelections-data-tx
+	url = https://github.com/openelections/openelections-data-tx.git
